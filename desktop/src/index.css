@@ -1,0 +1,32 @@
+h1{
+  text-align: center;
+}
+
+.border
+{
+  border: 2px solid black;
+  width: 50vw;
+  border-collapse: collapse;
+}
+
+.list-elements
+{
+  text-decoration: none;
+  list-style-type: none;
+}
+.list-elements span
+{
+  padding: 20px;
+  color: blue;
+}
+
+
+.container
+{
+  padding-left: 350px;
+}
+/* .list-elements
+{
+  display: grid;
+  
+} */
